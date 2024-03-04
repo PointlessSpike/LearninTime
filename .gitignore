@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LearninTime/.vs/LearninTime
+/LearninTime/LearninTime/obj
+/LearninTime/.vs/ProjectEvaluation
+/LearninTime/LearninTime/bin/Debug/net6.0
+/LearninTime/PersonApp/bin/Debug/net8.0
+/LearninTime/PersonApp/obj
